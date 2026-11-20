@@ -1,4 +1,4 @@
-# Smart Farm: Smart Irrigation System (PIC16F877A)
+# Smart Irrigation System (PIC16F877A)
 
 ![MCU](https://img.shields.io/badge/MCU-PIC16F877A-blue) ![Language](https://img.shields.io/badge/Language-C%20(XC8)-green) ![Simulation](https://img.shields.io/badge/Simulation-Proteus-orange)
 
